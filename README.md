@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jeetu Mehra</h1>
 <h3 align="center">🚀 Turning caffeine into code and ideas into real-world applications.</h3>
 
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+AI+Student+at+NIT+Surat;Machine+Learning+Enthusiast;Full+Stack+Developer;Competitive+Programmer;Building+AI+Products" alt="Typing SVG" />
+</p>
 
 ---
 
+<img align="right" alt="Coding" width="380"
+src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Artificial Intelligence at NIT Surat (SVNIT) — Class of 2028
-- 🤖 Passionate about AI, Machine Learning, and Full-Stack Development
+- 🎓 B.Tech in Artificial Intelligence at **NIT Surat (SVNIT)** — Class of 2028
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**
 - 🚀 Building impactful projects and solving real-world problems
-- 💡 Exploring Agentic AI and startup opportunities
-- 📚 Consistently solving problems on LeetCode and Codeforces
-- 🌱 Currently learning Advanced Machine Learning and System Design
+- 💡 Exploring **Agentic AI** and startup opportunities
+- 📚 Active on **LeetCode**, **Codeforces**, and **CodeChef**
+- 🎥 Creating educational content for students on YouTube
+- 🌱 Currently learning **Advanced ML, System Design, and Scalable AI Systems**
 - 📫 Reach me at: **jeetumehramtr@gmail.com**
 
 ---
@@ -21,17 +26,20 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/jeetu-mehra" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="https://linkedin.com/in/jeetu-mehra" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-<a href="https://www.codechef.com/users/jeetu_mehra" target="blank">
-<img src="https://cdn.simpleicons.org/codechef" height="45" />
+<a href="https://leetcode.com/u/jeetu_mehra/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="45" />
 </a>
-<a href="https://codeforces.com/profile/jeetu_mehra" target="blank">
-<img src="https://cdn.simpleicons.org/codeforces" height="45" />
+<a href="https://codeforces.com/profile/jeetu_mehra" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces" height="45" />
 </a>
-<a href="https://leetcode.com/u/jeetu_mehra/" target="blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="45" />
+<a href="https://www.codechef.com/users/jeetu_mehra" target="_blank">
+  <img src="https://cdn.simpleicons.org/codechef" height="45" />
+</a>
+<a href="mailto:jeetumehramtr@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
 
@@ -40,26 +48,29 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🚀 Current Focus
 
 - 🤖 Building AI-powered applications
-- 🌐 Developing full-stack web projects
+- 🌐 Developing MERN and Django projects
 - 🧠 Solving DSA problems daily
-- ✍️ Creating educational content on YouTube
-- 💼 Preparing for top internships and hackathons
+- 🎯 Preparing for top internships and hackathons
+- 🏗️ Working on startup ideas in AI
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgresql,django,tailwind,git,github,figma,aws,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,react,nextjs,nodejs,express,django,mongodb,mysql,postgresql,tailwind,git,github,aws,figma,pytorch,sklearn" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetu-mehra&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetu-mehra&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=jeetu-mehra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetu-mehra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +78,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jeetu-mehra&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=jeetu-mehra&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -75,7 +89,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeetu-mehra&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jeetu-mehra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"
+  />
 </p>
 
 ---
@@ -83,23 +99,51 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetu-mehra&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jeetu-mehra&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
 
-## ✨ Quote I Live By
+## ✍️ Random Dev Quote
 
-> "Consistency beats talent when talent doesn't stay consistent."
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Jeetu-mehra/Jeetu-mehra/output/snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=jeetu-mehra&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I love turning innovative ideas into scalable products and helping students learn coding and AI.
+> I love transforming innovative ideas into scalable AI products and helping students learn coding.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeetu-mehra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <i>⭐ If you like my work, consider starring my repositories!</i>
 </p>
