@@ -26,7 +26,7 @@ src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gi
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/jeetu-mehra" target="_blank">
+<a href="https://www.linkedin.com/in/jeetu-mehra-39bbb0322/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 <a href="https://leetcode.com/u/jeetu_mehra/" target="_blank">
