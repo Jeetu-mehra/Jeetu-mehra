@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeetu Mehra</h1>
 <h3 align="center">Turning caffeine into code and ideas into real-world applications.</h3>
 
+<img align="right" alt="coding" width="400" src="[https://github.com/sabiehahmed10p/sabiehahmed10p](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetu-mehra&label=Profile%20views&color=0e75b6&style=flat" alt="jeetu-mehra" /> </p>
 
 - 📫 How to reach me **jeetumehramtr@gmail.com**
